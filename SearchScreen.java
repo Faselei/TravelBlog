@@ -33,6 +33,8 @@ import java.util.LinkedList;
 /**Class SearchScreen
  * @author Julian Zelazny
  * @author Amimul Bhuiyan
+ * @author Daniel Castro
+ * @author Michael Desena
  * 
  * This class is the Frontend design for the search screen
  */
