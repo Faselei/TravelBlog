@@ -25,7 +25,8 @@ import backendoperations.AccountBackend;
 /**Class LoginScreen
  * @author Julian Zelazny
  * @author Amimul Bhuiyan
- * 
+ * @author Daniel Castro
+ * @author Michael Desena
  * This class is the frontend display for the travelblog login scree
  */
 public class LoginScreen {
