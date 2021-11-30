@@ -16,13 +16,9 @@ import java.util.LinkedList;
 /**Class UserRequestsBackend
  * @author Amimul Bhuiyan
  * 
- * 
+ * Used to perform backend operations on the PostBlogScreen class which includes:
+ * posting the blog
  */
-/*
-Used to perform backend operations on the PostBlogScreen class which includes:
-posting the blog
-
-*/
 
 
 
