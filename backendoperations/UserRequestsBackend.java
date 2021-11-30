@@ -18,6 +18,14 @@ import java.util.LinkedList;
  * 
  * 
  */
+/*
+Used to perform backend operations on the PostBlogScreen class which includes:
+posting the blog
+
+*/
+
+
+
 public class UserRequestsBackend{
     private final String dburl = DatabaseCredentials.getURL();
     private final String dbusername = DatabaseCredentials.getUsername();
