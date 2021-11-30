@@ -25,6 +25,8 @@ import javafx.scene.image.ImageView;
 /**Class Main
  * @author Julian Zelazny
  * @author Amimul Bhuiyan
+ * @author Daniel Castro
+ * @author Michael Desena
  * 
  * This class is used to start the travelblog application
  */
