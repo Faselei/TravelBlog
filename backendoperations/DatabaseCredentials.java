@@ -7,9 +7,11 @@ package backendoperations;
  * Description: Holds the credentials needed to access database
  */
 public class DatabaseCredentials{
-    private static final String dburl = "jdbc:mysql://localhost:3306/travelblogdb";
-    private static final String dbusername = "brokeBoyz";
-    private static final String dbpassword = "alwaysBroke2021";
+    /*THE URL, USERNAME, AND PASSWORD BELOW ARE INTENTIALLY CHANGED TO INCORRECT ONES IN ORDER
+    TO PROTECT THE PRIVACY OF THE DATABASE. THUS, NO DATABASE CONNECTION WILL ACTUALLY OCCUR.*/
+    private static final String dburl = "BLAH BLAH BLAH";
+    private static final String dbusername = "BLAH BLAH BLAH";
+    private static final String dbpassword = "BLAH BLAH BLAH";
     
     
     /**Used to get the url for the database
