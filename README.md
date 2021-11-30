@@ -12,7 +12,7 @@ At the moment, github refused to take the jar file because of its size. This jar
 2. Once this connector is downloaded, you must open BlueJ
          
          
-         Click on Tools
+          2a. Click on Tools
           2b. Click on Preferences
           2c. Click on the Libraries Tab
           2d. CLick add file
