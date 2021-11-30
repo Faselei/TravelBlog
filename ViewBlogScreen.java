@@ -35,6 +35,8 @@ import javafx.scene.control.Alert.AlertType;
 /**Class ViewBlogScreen
  * @author Julian Zelazny
  * @author Amimul Bhuiyan
+ * @author Daniel Castro
+ * @author Michael Desena
  * 
  * This class is the Frontend design for viewing blogs
  */
